@@ -21,7 +21,7 @@ A fórmula é: *IMC = peso (kg) / (altura (m))²*
 
 ## 📷 Preview
 
-<a href="../Calculadora-IMC/assets/img/calculadora.png">Demo da calculadora</a>
+<a href="https://github.com/1freelipe/Calculadora-IMC/blob/main/assets/img/calculadora.png">Demo da calculadora</a>
 
 ---
 
