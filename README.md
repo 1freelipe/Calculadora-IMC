@@ -31,6 +31,7 @@ A fórmula é: *IMC = peso (kg) / (altura (m))²*
 - CSS3
 - JavaScript (puro)
 
+## Confira a calculadora em tempo real:
 <ul>
-  <li><a href="https://1freelipe.github.io/Calculadora-IMC/">Confira a calculadora/a></li>
+  <li><a href="https://1freelipe.github.io/Calculadora-IMC/">Calculadora IMC</a></li>
 </ul>
